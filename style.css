@@ -1,0 +1,21 @@
+img{
+border: 1.5px solid black;
+margin:20px 350px;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+    margin:20px 350px;
+}
+h1{
+    font-family: "Lucida Console", monospace;
+    margin:50px 350px;
+}
+h3{
+    font-family: "Lucida Console", monospace;
+    margin:20px 350px;
+}
+h4{
+    font-family: Helvetica, sans-serif;
+    margin:50px 350px;
+}
